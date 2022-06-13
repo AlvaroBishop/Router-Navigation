@@ -1,0 +1,36 @@
+header {
+    background-color: #97fdc1;
+}
+
+nav {
+    
+    height: 7rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.logo img{
+    border-radius: 50px;
+    width: 5rem;
+    height: 5rem;
+}
+
+.links {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 40rem;
+    text-decoration: none;
+
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    font-size: 1.3rem;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
